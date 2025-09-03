@@ -57,8 +57,8 @@
 
 ## 📈 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samara5818&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samara5818&layout=compact&theme=radical)
 
 ---
 
