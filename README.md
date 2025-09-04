@@ -70,9 +70,9 @@
 ---
 
 ## 📫 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- [LinkedIn](www.linkedin.com/in/samarasimhareddy-newai)  
 - [Portfolio Website](https://your-portfolio.com)  
-- 📧 Email: samarasimhareddy.d12@gmail.com  
+- 📧 Email: sdonthireddy.us@gmail.com  
 
 ---
 
