@@ -29,7 +29,7 @@
 
 ---
 
-### 🤖 [RAG Chatbot with Streamlit + LangChain](https://github.com/username/rag-chatbot)  
+### 🤖 [RAG Chatbot with Streamlit + LangChain](https://github.com/samara5818/pdf-chatbot-rag/tree/main)  
 *Retrieval-Augmented Generation chatbot with knowledge grounding.*  
 - Built with **LangChain, OpenAI, ChromaDB**  
 - UI in **Streamlit** with custom theme  
@@ -70,9 +70,9 @@
 ---
 
 ## 📫 Let’s Connect
-- [LinkedIn](www.linkedin.com/in/samarasimhareddy-newai)  
+- [LinkedIn](https://www.linkedin.com/in/samarasimha-reddy-ml/)  
 - [Portfolio Website](https://your-portfolio.com)  
-- 📧 Email: sdonthireddy.us@gmail.com  
+- 📧 Email: samarasimhareddy.d24@gmail.com  
 
 ---
 
