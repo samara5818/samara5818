@@ -1,13 +1,13 @@
-# 👋 Hi, I’m Samarasimha Reddy Donthireddy  
+# Hi, I’m Samarasimha Reddy Donthireddy  
 **AI/ML Engineer | Full-Stack Developer | Cloud & MLOps Enthusiast**
 
-🎓 MS in Computer Science @ CSUDH (Graduating May 2025)  
-💡 Passionate about building **AI-powered systems**, **scalable ML pipelines**, and **intelligent web apps**  
-🌍 Exploring AI for **supply chain optimization, computer vision, and RAG-based systems**
+MS in Computer Science @ CSUDH (Graduating May 2025)  
+Passionate about building **AI-powered systems**, **scalable ML pipelines**, and **intelligent web apps**  
+Exploring AI for **supply chain optimization, computer vision, and RAG-based systems**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** Python, Java, Scala, JavaScript  
 **ML/DL:** PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM  
@@ -18,9 +18,9 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🔮 [M5 Forecasting - Demand Prediction](https://github.com/username/m5-forecasting-ml)  
+### [M5 Forecasting - Demand Prediction](https://github.com/username/m5-forecasting-ml)  
 *Optimizing inventory and supply chain forecasting using Walmart’s M5 dataset.*  
 - Compared ML models: Linear Regression, Random Forest, XGBoost, LightGBM, Ridge, SARIMA  
 - Metrics: RMSE, MAPE, R², inventory turnover analysis  
@@ -29,7 +29,7 @@
 
 ---
 
-### 🤖 [RAG Chatbot with Streamlit + LangChain](https://github.com/samara5818/pdf-chatbot-rag/tree/main)  
+### [RAG Chatbot with Streamlit + LangChain](https://github.com/samara5818/pdf-chatbot-rag/tree/main)  
 *Retrieval-Augmented Generation chatbot with knowledge grounding.*  
 - Built with **LangChain, OpenAI, ChromaDB**  
 - UI in **Streamlit** with custom theme  
@@ -38,7 +38,7 @@
 
 ---
 
-### 🚦 [Traffic Sign Classification (GTSRB + VGG16)](https://github.com/username/traffic-sign-classifier)  
+### [Traffic Sign Classification (GTSRB + VGG16)](https://github.com/username/traffic-sign-classifier)  
 *Computer vision model to classify German traffic signs using transfer learning.*  
 - Used **TensorFlow + Keras (VGG16)**  
 - Fine-tuned layers for improved accuracy  
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 [Online Retail - Customer Segmentation & Forecasting](https://github.com/username/online-retail-ml)  
+### [Online Retail - Customer Segmentation & Forecasting](https://github.com/username/online-retail-ml)  
 *End-to-end ML pipeline for customer insights & sales prediction.*  
 - Segmentation: **RFM + KMeans**  
 - Forecasting: **SARIMA, Prophet, LSTM**  
@@ -55,24 +55,24 @@
 
 ---
 
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samara5818&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samara5818&layout=compact&theme=radical)
 
 ---
 
-## 🌱 What I’m Up To
-- 🔭 Working on: **Supply Chain Optimization with MILP + ML**  
-- 📚 Learning: **Advanced MLOps (Ray, Vertex AI)**  
-- 🤝 Open to: Collaborations in **AI/ML & full-stack development**  
+## What I’m Up To
+- Working on: **Supply Chain Optimization with MILP + ML**  
+- Learning: **Advanced MLOps (Ray, Vertex AI)**  
+- Open to: Collaborations in **AI/ML & full-stack development**  
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/samarasimha-reddy-ml/)  
 - [Portfolio Website](https://your-portfolio.com)  
-- 📧 Email: samarasimhareddy.d24@gmail.com  
+- Email: samarasimhareddy.d24@gmail.com  
 
 ---
 
