@@ -1,79 +1,104 @@
-# Hi, I’m Samarasimha Reddy Donthireddy  
-**AI/ML Engineer | Full-Stack Developer | Cloud & MLOps Enthusiast**
+# 👋 Hi, I'm Samarasimha Reddy Donthireddy
 
-MS in Computer Science @ CSUDH (Graduating May 2025)  
-Passionate about building **AI-powered systems**, **scalable ML pipelines**, and **intelligent web apps**  
-Exploring AI for **supply chain optimization, computer vision, and RAG-based systems**
+🚀 AI/ML Engineer | Data Engineer | Full-Stack Python Developer  
+🔍 Specializing in Retrieval-Augmented Generation (RAG), Machine Learning Systems, and Scalable Backend Platforms
 
----
-
-## Tech Stack
-
-**Languages:** Python, Java, Scala, JavaScript  
-**ML/DL:** PyTorch, TensorFlow, Scikit-learn, XGBoost, LightGBM  
-**MLOps & Data:** Docker, Kubernetes, Ray, MLflow, DVC, Airflow  
-**Backend:** FastAPI, Django, Flask, Node.js  
-**Frontend:** React, Flutter, Bootstrap  
-**Cloud:** AWS (SageMaker, EC2, Lambda), GCP (Vertex AI), Azure  
+I design and build intelligent systems that turn raw data into production-ready AI solutions — spanning demand forecasting, RAG chatbots, computer vision pipelines, and cloud-native backend services. Passionate about building practical AI products that solve real-world problems in supply chain, healthcare, finance, and operations.
 
 ---
 
-## Featured Projects
+## 🧠 What I Work On
 
-### [M5 Forecasting - Demand Prediction](https://github.com/username/m5-forecasting-ml)  
-*Optimizing inventory and supply chain forecasting using Walmart’s M5 dataset.*  
-- Compared ML models: Linear Regression, Random Forest, XGBoost, LightGBM, Ridge, SARIMA  
-- Metrics: RMSE, MAPE, R², inventory turnover analysis  
-- Tools: Python, Scikit-learn, Pandas, Matplotlib  
-- **Impact**: Reduced stockouts & improved demand planning accuracy  
-
----
-
-### [RAG Chatbot with Streamlit + LangChain](https://github.com/samara5818/pdf-chatbot-rag/tree/main)  
-*Retrieval-Augmented Generation chatbot with knowledge grounding.*  
-- Built with **LangChain, OpenAI, ChromaDB**  
-- UI in **Streamlit** with custom theme  
-- Features: semantic search, metadata filtering, context-aware answers  
-- Dockerized for easy deployment  
+- Retrieval-Augmented Generation (LangChain, LangGraph, Vector Databases)
+- Machine Learning & Deep Learning Pipelines
+- Time-Series Forecasting & Optimization
+- Backend APIs & Microservices (FastAPI, Flask, Django)
+- Cloud & MLOps (Docker, AWS, GCP, CI/CD)
 
 ---
 
-### [Traffic Sign Classification (GTSRB + VGG16)](https://github.com/username/traffic-sign-classifier)  
-*Computer vision model to classify German traffic signs using transfer learning.*  
-- Used **TensorFlow + Keras (VGG16)**  
-- Fine-tuned layers for improved accuracy  
-- Achieved **>95% test accuracy**  
-- Visualization: Grad-CAM heatmaps  
+## 🛠️ Tech Stack
+
+**Languages:**  
+Python, Java, JavaScript, Scala, SQL  
+
+**ML / AI:**  
+Scikit-Learn, TensorFlow, PyTorch, XGBoost, LightGBM, OpenCV, Prophet  
+
+**LLMs & RAG:**  
+LangChain, LangGraph, OpenAI API, FAISS, Pinecone, ChromaDB  
+
+**Backend:**  
+FastAPI, Flask, Django, Node.js  
+
+**Databases:**  
+PostgreSQL, MySQL, MongoDB, SQLite, Redis  
+
+**Cloud & DevOps:**  
+AWS, GCP, Docker, GitHub Actions, Kubernetes (basic)
 
 ---
 
-### [Online Retail - Customer Segmentation & Forecasting](https://github.com/username/online-retail-ml)  
-*End-to-end ML pipeline for customer insights & sales prediction.*  
-- Segmentation: **RFM + KMeans**  
-- Forecasting: **SARIMA, Prophet, LSTM**  
-- Deployment-ready dashboards  
+## ⭐ Featured Projects
+
+### 🔹 LogiRAG — Logistics Intelligence RAG System
+- Built a domain-specific RAG chatbot for logistics & supply chain operations  
+- Vector search + structured database integration  
+- FastAPI backend with modular retriever + generator pipeline  
+
+**Tech:** Python, LangChain, FAISS, FastAPI, PostgreSQL
 
 ---
 
-## GitHub Analytics
+### 🔹 PDF Chatbot using RAG
+- Upload PDFs and chat with documents using semantic search  
+- Chunking, embeddings, retrieval ranking, and answer grounding  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samara5818&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samara5818&layout=compact&theme=radical)
-
----
-
-## What I’m Up To
-- Working on: **Supply Chain Optimization with MILP + ML**  
-- Learning: **Advanced MLOps (Ray, Vertex AI)**  
-- Open to: Collaborations in **AI/ML & full-stack development**  
+**Tech:** Python, LangChain, OpenAI API, FAISS, Streamlit
 
 ---
 
-## Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/samarasimha-reddy-ml/)  
-- [Portfolio Website](https://your-portfolio.com)  
-- Email: samarasimhareddy.d24@gmail.com  
+### 🔹 Demand Forecasting & Inventory Optimization
+- Trained ML models (Linear Regression, Random Forest, XGBoost, SARIMA)  
+- Evaluated with RMSE, MAPE, R²  
+- Supports supply-chain decision making  
+
+**Tech:** Python, Pandas, Scikit-Learn, XGBoost
 
 ---
 
-⭐ *If you like my projects, consider giving them a star — it helps others discover my work!*
+### 🔹 Daily Ops Planner Agent
+- AI agent for daily planning (workouts, meals, tasks, goals)  
+- Agentic workflow using LangGraph  
+
+**Tech:** Python, LangGraph, FastAPI
+
+---
+
+### 🔹 GTSRB Traffic Sign Classification
+- Transfer learning with VGG16  
+- Image preprocessing, training, evaluation, visualization  
+
+**Tech:** TensorFlow, Keras, OpenCV
+
+---
+
+## 📈 What I’m Looking For
+
+- AI / Machine Learning Engineer  
+- Data Scientist / Data Engineer  
+- Backend / Full-Stack Python Developer  
+
+Industries: Healthcare, Supply Chain, Finance, Robotics, FMCG
+
+---
+
+## 📫 Contact
+
+- Email: samarasimhareddy.d12@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/your-link  
+- Portfolio: https://your-portfolio-link
+
+---
+
+⭐ If you find my projects useful, consider giving them a star!
