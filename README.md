@@ -95,10 +95,8 @@ Industries: Healthcare, Supply Chain, Finance, Robotics, FMCG
 
 ## 📫 Contact
 
-- Email: samarasimhareddy.d12@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/your-link  
-- Portfolio: https://your-portfolio-link
-
----
+- Email: samarasimhareddy.d24@gmail.com  
+- LinkedIn: www.linkedin.com/in/samarasimha-reddy-ml
+- Portfolio: https://yourprofiel.info/?profile=samara
 
 ⭐ If you find my projects useful, consider giving them a star!
